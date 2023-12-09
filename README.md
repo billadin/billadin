@@ -35,6 +35,7 @@ I'm a software QA engineer and a new MERN stack developer, currently gaining val
 ## Pinned repos 📌
 
 ### Sphere Inventory - Inventory Management App
+[Sphere Inventory](https://inventroy-shop.web.app/)
 Features:
 - Role based access control on Admin/Manager/User account
 - Manage products (add/edit/delete)
@@ -51,6 +52,7 @@ Features:
 
 
 ### Book Comrade - Online Book Rent/Read
+[Book Comrade](https://book-comrade.web.app/)
 Features:
 -  Category management (add/edit/delete books)
 - User Authentication
@@ -63,6 +65,7 @@ Features:
 </p>
 
 ### ElectroniX - Online Brand Shop
+[ElectroniX](https://electronix-client.web.app/)
 Features:
 -  Product categorization based on popular brands
 - Manage products (add/edit/delete)
