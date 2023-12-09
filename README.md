@@ -27,8 +27,7 @@
 
 ### Pinned repos 📌
 <p align="center">
-    <a href="https://github.com/billadin/inventory-management"
-    >
+    <a href="https://github.com/billadin/inventory-management">
     <p>Sphere Inventory</p>
       <img width="410" src="./inventory.png"/ style="border: 1px solid green; padding: 10px; margin: 10px;">
     </a>
