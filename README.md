@@ -32,7 +32,7 @@ I'm a software QA engineer and a new MERN stack developer, currently gaining val
 
  
 
-## Pinned repos 📌
+## Recent Projects 📌
 
 ### [Sphere Inventory](https://inventroy-shop.web.app/) - Inventory Management App
 
