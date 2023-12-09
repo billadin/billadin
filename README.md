@@ -23,6 +23,10 @@ Here are some ideas to get you started:
 
  
 
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=react,js,firebase,selenium,nodejs,express,mongodb,java,tailwind,html,css&theme=dark" alt="My Skills">
+  </a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,firebase,selenium,nodejs,express,mongodb,java,tailwind,html,css&theme=dark)](https://skillicons.dev)
 
