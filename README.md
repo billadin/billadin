@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p>
-Welcome to my profile! I'm a software QA engineer and a new MERN stack developer, currently gaining valuable experience in the dynamic world of technology. I'm enthusiastic about ensuring the quality of software and building robust applications using the MERN (MongoDB, Express.js, React, Node.js) stack. I'm open to connecting with fellow developers and industry professionals. Thanks for visiting, and feel free to reach out!
+Welcome to my profile! I'm a software QA engineer and a new MERN stack developer, currently gaining valuable experience in the dynamic world of MERN. I'm enthusiastic about ensuring the quality of software and building robust applications using the MERN (MongoDB, Express.js, React, Node.js) stack. I'm open to connecting with fellow developers and industry professionals. Thanks for visiting, and feel free to reach out!
 </p>
 
 <p align="center">
