@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <a>
+  <a href="https://github.com/billadin">
     <img src="./github-header2.png">
   </a>
 </p>
@@ -33,14 +33,19 @@ I'm a software QA engineer and a new MERN stack developer, currently gaining val
  
 
 ### Pinned repos 📌
+
 <p align="center">
     <a href="https://github.com/billadin/inventory-management"
     >
       <img width="410" src="./sphere.png"/ style="border: 1px solid green; padding: 10px; margin: 10px;">
     </a>
+</p>
+<p>
     <a href="https://github.com/billadin/book-comrade">
       <img width="400" src="./bookComrade.png"/ style="border: 1px solid green; padding: 10px; margin: 10px;">
     </a>
+</p>
+<p>
     <a href="https://github.com/billadin/electronix">
       <img width="410" src="./electrnoiX3.png"/ style="border: 1px solid green; padding: 10px; margin: 10px;">
     </a>
