@@ -39,7 +39,7 @@ I'm a software QA engineer and a new MERN stack developer, currently gaining val
       <img width="410" src="./sphere.png"/ style="border: 1px solid green; padding: 10px; margin: 10px;">
     </a>
     <a href="https://github.com/billadin/book-comrade">
-      <img width="400" src="./book-comrade.png"/ style="border: 1px solid green; padding: 10px; margin: 10px;">
+      <img width="400" src="./bookComrade.png"/ style="border: 1px solid green; padding: 10px; margin: 10px;">
     </a>
     <a href="https://github.com/billadin/electronix">
       <img width="410" src="./electrnoiX3.png"/ style="border: 1px solid green; padding: 10px; margin: 10px;">
