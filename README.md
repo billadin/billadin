@@ -30,10 +30,10 @@
     <a href="https://github.com/billadin/inventory-management">
       <img width="410" src="./inventory.png"/>
     </a>
-    <a href="https://github.com/leviarista/eco-stats-peru">
+    <a href="https://github.com/billadin/book-comrade">
       <img width="400" src="./book-comrade.png"/>
     </a>
-    <a href="https://github.com/leviarista/twenty_one_mining">
+    <a href="https://github.com/billadin/electronix">
       <img width="410" src="./electronix.png"/>
     </a>
 </p>
