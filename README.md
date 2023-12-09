@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=react,js,firebase,selenium,nodejs,express,mongodb,java,tailwind,html,css&theme=dark" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=react,js,java,selenium,nodejs,express,mongodb,firebase,tailwind,html,css&theme=dark" alt="My Skills">
   </a>
 </p>
 
