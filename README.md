@@ -34,7 +34,7 @@
       <img width="400" src="./book-comrade.png"/>
     </a>
     <a href="https://github.com/leviarista/twenty_one_mining">
-      <img width="410" src="./electrnox.png"/>
+      <img width="410" src="./electronix.png"/>
     </a>
 </p>
 
