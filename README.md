@@ -27,14 +27,15 @@
 
 ### Pinned repos 📌
 <p align="center">
-    <a href="https://github.com/billadin/inventory-management">
-      <img width="410" src="./inventory.png"/>
+    <a href="https://github.com/billadin/inventory-management"
+    >
+      <img width="410" src="./inventory.png"/ style="border: 1px solid green; padding: 10px; margin: 10px;">
     </a>
     <a href="https://github.com/billadin/book-comrade">
-      <img width="400" src="./book-comrade.png"/>
+      <img width="400" src="./book-comrade.png"/ style="border: 1px solid green; padding: 10px; margin: 10px;">
     </a>
     <a href="https://github.com/billadin/electronix">
-      <img width="410" src="./electronix.png"/>
+      <img width="410" src="./electronix.png"/ style="border: 1px solid green; padding: 10px; margin: 10px;">
     </a>
 </p>
 
