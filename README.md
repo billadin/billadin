@@ -16,6 +16,12 @@ I'm a software QA engineer and a new MERN stack developer, currently gaining val
 - :seedling: Ready to contribute my newly acquired MERN skills in any forntend or backend project
 
 
+### Technologies :hammer_and_wrench:
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=react,js,java,selenium,nodejs,express,mongodb,firebase,tailwind,html,css&theme=dark" alt="My Skills">
+  </a>
+</p>
 
 ### Current Stats 📈
 <p align="center">
@@ -24,14 +30,7 @@ I'm a software QA engineer and a new MERN stack developer, currently gaining val
   </a>
 </p>
 
-<!-- markdownlint-enable -->
  
-### :hammer_and_wrench: Technologies
-<p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=react,js,java,selenium,nodejs,express,mongodb,firebase,tailwind,html,css&theme=dark" alt="My Skills">
-  </a>
-</p>
 
 ### Pinned repos 📌
 <p align="center">
