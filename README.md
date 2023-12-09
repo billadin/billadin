@@ -39,5 +39,12 @@
     </a>
 </p>
 
+## Contact me :speech_balloon:
+
+
+
+:e-mail: <a href="mailto:mir.billadin4@gmail.com">Send an e-mail</a>
+
+:globe_with_meridians: <a href="https://k9n.dev">Visit my upwork profile</a>
 
 
