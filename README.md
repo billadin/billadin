@@ -8,7 +8,7 @@
   </a>
 </p>
 
-### :woman_technologist: About Me :
+### About Me :woman_technologist:
 I'm a software QA engineer and a new MERN stack developer, currently gaining valuable experience in the dynamic world of technology.
 
 - :telescope: Working as a Software QA Engineer and contributing to maintain software quality.
