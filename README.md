@@ -52,12 +52,10 @@ Features:
 
 ### Book Comrade - Online Book Rent/Read
 Features:
-- Browse most popular book categories
-- Choose your favorite book from the huge collection
-- Borrow book to read online
-- Return Book at you convenient time
-- Save your Borrowed book list by creating account
-- Login to your account whenever you want and get the saved borrowed list
+-  Category management (add/edit/delete books)
+- User Authentication
+- Borrow/Return books online
+
 <p align="center">
     <a href="https://github.com/billadin/book-comrade">
       <img width="400" src="./bookComrade.png"/ style="border: 1px solid green; padding: 10px; margin: 10px;">
@@ -66,12 +64,10 @@ Features:
 
 ### ElectroniX - Online Brand Shop
 Features:
-- Browse smartphone, smartwatch, tablet etc. from popular brands
-- Get details of products
-- Add your desired product to Cart
-- Remove item from cart
-- Update an existing product
-- Save your cart info by creating an account
+-  Product categorization based on popular brands
+- Manage products (add/edit/delete)
+- Saved shopping cart for authenticated use
+
 <p align="center">
     <a href="https://github.com/billadin/electronix">
       <img width="410" src="./electrnoiX3.png"/ style="border: 1px solid green; padding: 10px; margin: 10px;">
