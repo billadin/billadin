@@ -20,7 +20,7 @@ I'm a software QA engineer and a new MERN stack developer, currently gaining val
 ### Current Stats 📈
 <p align="center">
   <a>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=billadin&theme=github-dark" alt="GitHub Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=billadin&theme=whatsapp-light2&card_width=756" alt="GitHub Streak">
   </a>
 </p>
 
