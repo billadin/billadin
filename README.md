@@ -45,6 +45,6 @@
 
 :e-mail: <a href="mailto:mir.billadin4@gmail.com">Send an e-mail</a>
 
-:globe_with_meridians: <a href="https://k9n.dev">Visit my upwork profile</a>
+:globe_with_meridians: <a href="https://www.upwork.com/freelancers/~01449a1f318b43c81d">Visit my upwork profile</a>
 
 
