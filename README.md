@@ -29,12 +29,15 @@
 <p align="center">
     <a href="https://github.com/billadin/inventory-management"
     >
+    <p>Sphere Inventory</p>
       <img width="410" src="./inventory.png"/ style="border: 1px solid green; padding: 10px; margin: 10px;">
     </a>
     <a href="https://github.com/billadin/book-comrade">
+    <p>Book Comrade</p>
       <img width="400" src="./book-comrade.png"/ style="border: 1px solid green; padding: 10px; margin: 10px;">
     </a>
     <a href="https://github.com/billadin/electronix">
+    <p>ElectroniX</p>
       <img width="410" src="./electronix.png"/ style="border: 1px solid green; padding: 10px; margin: 10px;">
     </a>
 </p>
