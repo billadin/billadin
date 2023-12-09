@@ -52,11 +52,12 @@ Features:
 
 ### Book Comrade - Online Book Rent/Read
 Features:
-- Role based access control on Admin/Manager/User account
-- Manage products (add/edit/delete)
-- Order management with receipt (PDF)
-- Buy plan to upgrade shop limit
-- Stripe payment
+- Browse most popular book categories
+- Choose your favorite book from the huge collection
+- Borrow book to read online
+- Return Book at you convenient time
+- Save your Borrowed book list by creating account
+- Login to your account whenever you want and get the saved borrowed list
 <p align="center">
     <a href="https://github.com/billadin/book-comrade">
       <img width="400" src="./bookComrade.png"/ style="border: 1px solid green; padding: 10px; margin: 10px;">
@@ -65,11 +66,12 @@ Features:
 
 ### ElectroniX - Online Brand Shop
 Features:
-- Role based access control on Admin/Manager/User account
-- Manage products (add/edit/delete)
-- Order management with receipt (PDF)
-- Buy plan to upgrade shop limit
-- Stripe payment
+- Browse smartphone, smartwatch, tablet etc. from popular brands
+- Get details of products
+- Add your desired product to Cart
+- Remove item from cart
+- Update an existing product
+- Save your cart info by creating an account
 <p align="center">
     <a href="https://github.com/billadin/electronix">
       <img width="410" src="./electrnoiX3.png"/ style="border: 1px solid green; padding: 10px; margin: 10px;">
