@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
+  <a>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=billadin&theme=github-light&hide_border=true" alt="GitHub Streak">
   </a>
 </p>
