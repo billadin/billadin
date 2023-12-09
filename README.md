@@ -34,9 +34,8 @@ I'm a software QA engineer and a new MERN stack developer, currently gaining val
 
 ## Recent Projects 📌
 
-<img align="right" height="250" width="375" alt="" src="./sphere.png" />
-
 ### [Sphere Inventory](https://inventroy-shop.web.app/) - Inventory Management App
+
 Features:
 - Role based access control on Admin/Manager/User account
 - Manage products (add/edit/delete)
@@ -44,14 +43,13 @@ Features:
 - Buy plan to upgrade shop limit
 - Stripe payment
 
-<!-- <p align="center">
+<p align="center">
     <a href="https://github.com/billadin/inventory-management"
     >
       <img width="410" src="./sphere.png"/ style="border: 1px solid green; padding: 10px; margin: 10px;">
     </a>
-</p> -->
+</p>
 
-<img align="right" height="250" width="375" alt="" src="./bookComrade.png" />
 
 ### [Book Comrade](https://book-comrade.web.app/) - Online Book Rent/Read
 
@@ -60,13 +58,11 @@ Features:
 - User Authentication
 - Borrow/Return books online
 
-<!-- <p align="center">
+<p align="center">
     <a href="https://github.com/billadin/book-comrade">
       <img width="400" src="./bookComrade.png"/ style="border: 1px solid green; padding: 10px; margin: 10px;">
     </a>
-</p> -->
-
-<img align="right" height="250" width="375" alt="" src="./electrnoiX3.png" />
+</p>
 
 ### [ElectroniX](https://electronix-client.web.app/) - Online Brand Shop
 
@@ -75,11 +71,11 @@ Features:
 - Manage products (add/edit/delete)
 - Saved shopping cart for authenticated user
 
-<!-- <p align="center">
+<p align="center">
     <a href="https://github.com/billadin/electronix">
       <img width="410" src="./electrnoiX3.png"/ style="border: 1px solid green; padding: 10px; margin: 10px;">
     </a>
-</p> -->
+</p>
 
 ## Contact me :speech_balloon:
 
