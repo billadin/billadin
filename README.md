@@ -55,6 +55,6 @@ I'm a software QA engineer and a new MERN stack developer, currently gaining val
 
 :globe_with_meridians: <a href="https://www.upwork.com/freelancers/~01449a1f318b43c81d">Visit my upwork profile</a>
 
-![book-comrade](https://socialify.git.ci/billadin/book-comrade/image?language=1&owner=1&name=1&stargazers=1&theme=Light)
+
 
 
