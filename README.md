@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=billadin&theme=github-light&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=billadin&theme=github-light&hide_border=true)](https://git.io/streak-stats)
+</p>
+ 
 
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,firebase,selenium,nodejs,express,mongodb,java,tailwind,html,css&theme=dark)](https://skillicons.dev)
