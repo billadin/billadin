@@ -8,6 +8,14 @@
   </a>
 </p>
 
+### :man_technologist: About Me :
+I'm a software QA engineer and a new MERN stack developer, currently gaining valuable experience in the dynamic world of technology.
+
+- :telescope: Working as a Software QA Engineer and contributing to maintain software quality.
+
+- :seedling: Ready to contribute my newly acquired MERN skills in any forntend or backend project
+
+
 
 ### Current Stats 📈
 <p align="center">
@@ -18,7 +26,7 @@
 
 <!-- markdownlint-enable -->
  
-### Technologies 💻
+### :hammer_and_wrench: Technologies
 <p align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=react,js,java,selenium,nodejs,express,mongodb,firebase,tailwind,html,css&theme=dark" alt="My Skills">
@@ -46,5 +54,7 @@
 :e-mail: <a href="mailto:mir.billadin4@gmail.com">Send an e-mail</a>
 
 :globe_with_meridians: <a href="https://www.upwork.com/freelancers/~01449a1f318b43c81d">Visit my upwork profile</a>
+
+![book-comrade](https://socialify.git.ci/billadin/book-comrade/image?language=1&owner=1&name=1&stargazers=1&theme=Light)
 
 
