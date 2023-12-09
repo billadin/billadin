@@ -8,6 +8,7 @@
   </a>
 </p>
 
+<!-- markdownlint-disable -->
 <div style="background-color: black; padding: 10px;">
 <p align="center">
   <a>
@@ -15,7 +16,7 @@
   </a>
 </p>
 </div>
-
+<!-- markdownlint-enable -->
  
 
 <p align="center">
