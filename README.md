@@ -9,7 +9,7 @@
 </p>
 
 ### About Me :man_technologist:
-I'm a software QA engineer and a new MERN stack developer, currently gaining valuable experience in the dynamic world of technology.
+I'm a software QA engineer and a new MERN stack developer, currently gaining valuable experience in MERN ecosystem.
 
 - :telescope: Working as a Software QA Engineer and contributing to maintain software quality.
 
