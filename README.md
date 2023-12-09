@@ -4,7 +4,7 @@
 
 <p align="center">
   <a>
-    <img src="./github-header.png">
+    <img src="./github-header-image (12).png">
   </a>
 </p>
 
