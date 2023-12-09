@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=billadin&theme=github-light&hide_border=true)](https://git.io/streak-stats)
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/billadin/langs)](https://githubtrends.io)
