@@ -32,7 +32,15 @@ I'm a software QA engineer and a new MERN stack developer, currently gaining val
 
  
 
-### Pinned repos 📌
+## Pinned repos 📌
+
+### Sphere Inventory
+Features:
+- Role based access control on Admin/Manager/User account
+- Manage products (add/edit/delete)
+- Order management with receipt (PDF)
+- Buy plan to upgrade shop limit
+- Stripe payment
 
 <p align="center">
     <a href="https://github.com/billadin/inventory-management"
@@ -41,18 +49,27 @@ I'm a software QA engineer and a new MERN stack developer, currently gaining val
     </a>
 </p>
 
-## Features:
+
+### Book Comrade
+Features:
 - Role based access control on Admin/Manager/User account
 - Manage products (add/edit/delete)
 - Order management with receipt (PDF)
 - Buy plan to upgrade shop limit
 - Stripe payment
-
 <p align="center">
     <a href="https://github.com/billadin/book-comrade">
       <img width="400" src="./bookComrade.png"/ style="border: 1px solid green; padding: 10px; margin: 10px;">
     </a>
 </p>
+
+### ElectroniX
+Features:
+- Role based access control on Admin/Manager/User account
+- Manage products (add/edit/delete)
+- Order management with receipt (PDF)
+- Buy plan to upgrade shop limit
+- Stripe payment
 <p align="center">
     <a href="https://github.com/billadin/electronix">
       <img width="410" src="./electrnoiX3.png"/ style="border: 1px solid green; padding: 10px; margin: 10px;">
