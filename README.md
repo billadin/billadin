@@ -1,6 +1,6 @@
 
 
-<div style="background-color: black; padding: 10px;">
+
 
 <p align="center">
   <a>
@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<!-- markdownlint-disable -->
+I'm a software QA engineer and a new MERN stack developer, currently gaining valuable experience in the dynamic world of web development
 
 <p align="center">
   <a>
@@ -25,6 +25,5 @@
   </a>
 </p>
 
-</div>
 
 
