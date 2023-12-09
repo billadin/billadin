@@ -69,7 +69,7 @@ Features:
 Features:
 -  Product categorization based on popular brands
 - Manage products (add/edit/delete)
-- Saved shopping cart for authenticated use
+- Saved shopping cart for authenticated user
 
 <p align="center">
     <a href="https://github.com/billadin/electronix">
