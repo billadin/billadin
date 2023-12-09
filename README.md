@@ -27,7 +27,7 @@
 
 ### Pinned repos 📌
 <p align="center">
-    <a href="https://github.com/programming-hero-web-course1/b8a12-client-side-billadin">
+    <a href="https://github.com/billadin/inventory-management">
       <img width="410" src="./inventory.png"/>
     </a>
     <a href="https://github.com/leviarista/eco-stats-peru">
