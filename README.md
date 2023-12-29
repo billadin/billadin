@@ -1,12 +1,13 @@
 
 
 
-
+<!--
 <p align="center">
   <a href="https://github.com/billadin">
     <img src="./github-header2.png">
   </a>
 </p>
+-->
 
 ### About Me :man_technologist:
 I'm a software QA engineer and a new MERN stack developer, currently gaining valuable experience in MERN ecosystem.
